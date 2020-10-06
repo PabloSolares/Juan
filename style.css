@@ -1,0 +1,38 @@
+body{
+    height: 1400px;
+}
+
+#content{
+    margin: 0px auto;
+    margin-left: 50px;
+    margin-right: 50px ;
+    width: 90%;
+    text-align: center;
+    
+    resize: none;
+    
+}
+
+#content-1{
+    margin: 0px auto;
+    margin-left: 250px;
+    margin-right: 250px ;
+    width: 65%;
+    text-align: center;
+    
+}
+
+
+#comment{
+    min-height: 450px;
+}
+
+
+#comment1{
+    min-height: 270px;
+}
+
+
+
+
+
